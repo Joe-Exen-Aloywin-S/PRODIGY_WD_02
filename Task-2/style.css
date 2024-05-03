@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: salmon;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #display {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #laps {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  #laps li {
+    margin-bottom: 5px;
+  }
+  
